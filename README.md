@@ -19,8 +19,8 @@
   * https://go.dev/play/p/KIP3LZz5u4Q
 * Display Images
   * https://go.dev/play/p/8N0VwWzZ0Op
-* goplay.space
-  * https://goplay.space/#61SJKVrWwj
 * goplay.tools
   * https://goplay.tools/snippet/CmRxNZQXvqB
+* goplay.space
+  * https://goplay.space/#61SJKVrWwj
 
